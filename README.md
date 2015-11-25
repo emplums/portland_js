@@ -1,6 +1,6 @@
 # pdxjs
 
-We are trying to start a monthly event in Portland inspired by <a href="http://wafflejs.com/">Waffle>JS</a> and <a href="http://brooklynjs.com/">Brooklyn.JS</a> and 
+We are trying to start a monthly event in Portland inspired by <a href="http://wafflejs.com/">Waffle.JS</a> and <a href="http://brooklynjs.com/">Brooklyn.JS</a> and 
 
 The idea is to make the event:
 - Entertaining
@@ -19,4 +19,4 @@ TODO:
 - Reach out to potential sponsors
 - Find venue
 
-If you'd like to get involved, check out some of our open issues where we are discussing venues, sponsorships, etc. Or reach out to me on twitter @emplums!
+If you'd like to get involved, check out some of our open issues where we are discussing venues, sponsorships, etc. Or reach out to me on twitter <a href="www.twitter.com/emplums">@emplums</a>!
