@@ -24,4 +24,3 @@ If you'd like to get involved, check out some of our open issues where we are di
 I would like to get involved:
 - Caterina <a href="www.twitter.com/caterinasworld">@caterinasworld</a>
 
-Potential sponsor: <a href="http://offthewaffle.com">Off the Waffle</a>. Twitter: <a href="http://twitter.com/offthewaffle">@offthewaffle</a>. Contact: LC [at] offthewaffle.com
