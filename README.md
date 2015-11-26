@@ -20,3 +20,8 @@ TODO:
 - Find venue
 
 If you'd like to get involved, check out some of our open issues where we are discussing venues, sponsorships, etc. Or reach out to me on twitter <a href="www.twitter.com/emplums">@emplums</a>!
+
+I would like to get involved:
+- Caterina <a href="www.twitter.com/emplums">@caterinasworld</a>
+
+Potential sponsor: <a href="http://offthewaffle.com">Off the Waffle</a>. Twitter: <a href="http://twitter.com/offthewaffle>@offthewaffle</a>. Contact: LC [a] offthewaffle [dot] com
