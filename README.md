@@ -20,8 +20,7 @@ Areas we need help in:
   who can also help at the event setting up speakers, mics, projector, etc.
 - Finding the perfect venue!
 
-If you'd like to get involved, check out some of our open issues where we are discussing venues, sponsorships, etc. Or reach out to me on twitter <a href="www.twitter.com/emplums">@emplums</a>!
+If you'd like to get involved, check out some of our open issues where we are discussing venues, sponsorships, etc. Or reach out to me on twitter [@emplums](http://www.twitter.com/emplums)!
 
 I would like to get involved:
-- Caterina <a href="www.twitter.com/caterinasworld">@caterinasworld</a>
-
+- Caterina [@caterinasworld](http://www.twitter.com/caterinasworld)
