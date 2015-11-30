@@ -3,6 +3,7 @@
 We are trying to start a monthly event in Portland inspired by <a href="http://wafflejs.com/">Waffle.JS</a> and <a href="http://brooklynjs.com/">Brooklyn.JS</a>
 
 The idea is to make the event:
+- Community based - I'd love to see this grow into a community rather than just a monthly event
 - Entertaining
 - Inclusive
 - Informative (but not too informative, see the first bullet ;) )
