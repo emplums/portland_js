@@ -22,6 +22,3 @@ Areas we need help in:
 - Finding the perfect venue!
 
 If you'd like to get involved, check out some of our open issues where we are discussing venues, sponsorships, etc. Or reach out to me on twitter [@emplums](http://www.twitter.com/emplums)!
-
-I would like to get involved:
-- Caterina [@caterinasworld](http://www.twitter.com/caterinasworld)
