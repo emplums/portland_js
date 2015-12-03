@@ -1,4 +1,4 @@
-# pdxjs
+# portland_js
 
 We are trying to start a monthly event in Portland inspired by <a href="http://wafflejs.com/">Waffle.JS</a> and <a href="http://brooklynjs.com/">Brooklyn.JS</a>
 
